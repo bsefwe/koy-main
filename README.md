@@ -8,7 +8,15 @@
 请勿滥用本仓库
 # 请勿使用常用的账号部署此项目，以免封号！！
 
-## 部署步骤
+
+<details>
+
+<summary>## 部署步骤</summary>
+
+
+
+```bash
+
 
 1. fork本仓库
 2. 在`Dockerfile`内第3-5行修改自定义设置，说明如下：
@@ -38,7 +46,8 @@
 
 Environment variables：`Key`：PORT，`Value`：80
 `Name`：自己定义
-
+```
+</details>
 
 <details>
 <summary>V2rayN(Xray、V2ray)</summary>
